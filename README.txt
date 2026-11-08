@@ -12,3 +12,5 @@ Internet exercise research: the Add / research exercise form opens online search
 The built-in exercise library includes original short technique summaries, modifications and external technique video search links. Check technique and safety before teaching.
 
 V5: Sun salutation step-by-step instructor explanations and expanded cheat-sheet printing.
+
+V6: Configurable maximum duration per regular exercise (default 5 min). Sun Salutations are exempt. Generator uses additional compatible poses to fill the selected class duration. Existing saved plans are not modified automatically.
