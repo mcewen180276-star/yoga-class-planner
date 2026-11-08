@@ -10,3 +10,5 @@ This version is free, runs entirely in your browser, and saves data locally on e
 Internet exercise research: the Add / research exercise form opens online searches. Web content is NOT automatically imported. Fully automatic search and structured extraction would require an external API/backend and permission to use source content.
 
 The built-in exercise library includes original short technique summaries, modifications and external technique video search links. Check technique and safety before teaching.
+
+V5: Sun salutation step-by-step instructor explanations and expanded cheat-sheet printing.
