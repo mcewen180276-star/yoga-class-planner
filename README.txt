@@ -12,3 +12,5 @@ NEW:
 PRIVACY: Client mini app contains the selected class only, not your entire exercise database, other clients, or calendar. Review class safety and instructions before sharing. HTML attachments can be blocked by some messaging services; use a file-sharing service if needed. Opening local HTML files can vary by Android browser.
 
 NOTE: Timer pauses when the page is backgrounded, to avoid skipping exercises unexpectedly. Sun Salutations appear as one timed block with an expandable breakdown. Client mini apps are standalone files, not separate installable PWAs.
+
+V9 FIXES: All built-in and custom Sun Salutations can be manually added to any class style, without disabling choices or compatibility errors. New classes default to Hatha Yoga (including Start fresh). Automatic class generation continues to suggest compatible sequences. Existing saved data uses the unchanged yoga-planner-v1 storage key.
