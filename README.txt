@@ -16,3 +16,5 @@ NOTE: Timer pauses when the page is backgrounded, to avoid skipping exercises un
 V9 FIXES: All built-in and custom Sun Salutations can be manually added to any class style, without disabling choices or compatibility errors. New classes default to Hatha Yoga (including Start fresh). Automatic class generation continues to suggest compatible sequences. Existing saved data uses the unchanged yoga-planner-v1 storage key.
 
 V10: Client Companion class list, video searches, individually timed sun salutation movements, local music playback, bell and voice announcements.
+
+V11: Client Companion supports multiple audio files, folder/album selection where supported, sequential playlist playback, track selection and next/previous controls. Voice announces the upcoming exercise at 3 seconds remaining; bell at transition.
