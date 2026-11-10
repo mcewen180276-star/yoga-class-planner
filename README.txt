@@ -1,16 +1,11 @@
-YOGA CLASS PLANNER
+Yoga Class Planner V7 — GitHub Pages
 
-Upload index.html, manifest.webmanifest, icon.svg, and sw.js to the root of your GitHub Pages repository.
+1. In your existing app, export a backup JSON.
+2. Extract this ZIP and upload index.html, sw.js, manifest.webmanifest and icon.svg to the root of the existing GitHub Pages repository, replacing old files.
+3. Commit and wait for deployment; reload/close and reopen the installed app.
+4. Existing data uses the original localStorage key yoga-planner-v1 and is not intentionally erased. A local recovery snapshot is created on first V7 launch if possible.
+5. The backup is device/browser specific. Keep your downloaded backup file.
 
-GitHub Pages: Settings > Pages > Deploy from a branch > main > / (root).
-Open the published https://YOURNAME.github.io/REPOSITORY/ URL and use Add to Home screen / Install app.
+Features: structured generator, equipment filter, 28+ customisable Sun Sals, instructor-checked technique links, full-screen swipe teaching timer, adjustable print, multiweek courses, recovery.
 
-This version is free, runs entirely in your browser, and saves data locally on each device. Use Settings > Export backup to safeguard your data.
-
-Internet exercise research: the Add / research exercise form opens online searches. Web content is NOT automatically imported. Fully automatic search and structured extraction would require an external API/backend and permission to use source content.
-
-The built-in exercise library includes original short technique summaries, modifications and external technique video search links. Check technique and safety before teaching.
-
-V5: Sun salutation step-by-step instructor explanations and expanded cheat-sheet printing.
-
-V6: Configurable maximum duration per regular exercise (default 5 min). Sun Salutations are exempt. Generator uses additional compatible poses to fill the selected class duration. Existing saved plans are not modified automatically.
+Important: Technique research links are not guaranteed to be verified demonstrations. Review every class and modifications before teaching. Injury-focused selections are not rehabilitation prescriptions.
