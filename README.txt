@@ -18,3 +18,5 @@ V9 FIXES: All built-in and custom Sun Salutations can be manually added to any c
 V10: Client Companion class list, video searches, individually timed sun salutation movements, local music playback, bell and voice announcements.
 
 V11: Client Companion supports multiple audio files, folder/album selection where supported, sequential playlist playback, track selection and next/previous controls. Voice announces the upcoming exercise at 3 seconds remaining; bell at transition.
+
+V12: Client music playlist improved with audio element loading, automatic next-track handling, playback errors/status. Client countdown now uses a wall-clock deadline rather than animation frames, with voice and on-screen cue at 3 seconds and bell at 0. Background pauses intentionally. Browser autoplay and speech support still vary.
