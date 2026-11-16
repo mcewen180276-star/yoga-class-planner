@@ -20,3 +20,5 @@ V10: Client Companion class list, video searches, individually timed sun salutat
 V11: Client Companion supports multiple audio files, folder/album selection where supported, sequential playlist playback, track selection and next/previous controls. Voice announces the upcoming exercise at 3 seconds remaining; bell at transition.
 
 V12: Client music playlist improved with audio element loading, automatic next-track handling, playback errors/status. Client countdown now uses a wall-clock deadline rather than animation frames, with voice and on-screen cue at 3 seconds and bell at 0. Background pauses intentionally. Browser autoplay and speech support still vary.
+
+V13: Expanded pose library with more than 200 new instructor-editable variations and additional poses. Variations have distinct names, cues, modifications and technique research links. Links are search results, not verified videos. Existing local data key unchanged.
